@@ -12,19 +12,19 @@
 />
   
 
-- 🔭 I’m currently Seeking for internship .  
+- 🔭 I’m currently Seeking for internships .  
   
 
-- 🌱 I’m currently learning Full Stack  
+- 🌱 I’m currently learning Full Stack WEB DEVELOPMENT .  
   
 
-- ❓Also Doing hands-on learning on Data Science Projects  
+- ❓Also Doing hands-on learning on Data Science and Machine Learning Projects  
   
 
 - ⚡ Fun fact: I am surviving after all that.  
   
 
-![Listening to on Spotify](https://rishavanand.github.io/static/images/spotify-readme-example.svg)  
+![Listening to on Spotify]  
 
 <br/>  
 
